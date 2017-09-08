@@ -42,9 +42,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
         System.out.println(newStr);
-        // value = value.substring(1);
 
-        //  System.out.println(value);
         s.setText(newStr);
     }
 
